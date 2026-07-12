@@ -52,46 +52,6 @@ Designed as a systems programming project to demonstrate Linux internals, file p
 
 ---
 
-## Screenshots
-
-### Main Menu
-
-```
-screenshots/menu.png
-```
-
-### System Information
-
-```
-screenshots/system-info.png
-```
-
-### Health Monitoring
-
-```
-screenshots/health-monitor.png
-```
-
-### Network Diagnostics
-
-```
-screenshots/network.png
-```
-
-### Security Audit
-
-```
-screenshots/security.png
-```
-
-### Generated Report
-
-```
-screenshots/report.png
-```
-
----
-
 ## Project Structure
 
 ```
