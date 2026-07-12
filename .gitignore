@@ -1,0 +1,21 @@
+# Build files
+*.o
+sysguard
+
+# Reports
+reports/*.txt
+
+# VSCode
+.vscode/
+
+# CLion
+.idea/
+
+# Vim
+*.swp
+
+# Temporary files
+*~
+
+# Logs
+*.log
