@@ -9,24 +9,6 @@
 #include "report.h"
 #include "utils.h"
 
-static void waitForEnter(void)
-{
-    int c;
-
-    printf("\nPress ENTER to continue...");
-    while ((c = getchar()) != '\n' && c != EOF);
-
-    getchar();
-}
-
-static void clearScreen(void)
-{
-#ifdef __linux__
-    system("clear");
-#else
-    system("cls");
-#endif
-}
 
 int main(void)
 {
