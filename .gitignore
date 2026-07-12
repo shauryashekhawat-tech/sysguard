@@ -1,20 +1,16 @@
-# Build files
+# Object files
 *.o
+
+# Executable
 sysguard
 
 # Reports
 reports/*.txt
 
-# VSCode
+# Editor files
 .vscode/
-
-# CLion
 .idea/
-
-# Vim
 *.swp
-
-# Temporary files
 *~
 
 # Logs
